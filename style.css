@@ -32,4 +32,18 @@ img {
 .navbar-toggle .icon-bar {
   background: black;
 }
+.navbar-default .navbar-brand {
+  color: black;
+}
+.navbar-default .navbar-toggle {
+  border: 0;
+}
+.navbar-default {
+  background-color: transparent;
+  border-color: transparent;
+}
+.form-control {
+  display: none;
+}
+
 
